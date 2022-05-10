@@ -1,0 +1,26 @@
+{
+  "name": "@tasluf/firebase_auth_helper",
+  "version": "1.0.0",
+  "description": "It will help to login in firebase with google, Facebook, Email, Phone",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tasluf665/firebaseAuthHelper.git"
+  },
+  "keywords": [
+    "FirebaseAuthHelper"
+  ],
+  "author": "Rhyme",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tasluf665/firebaseAuthHelper/issues"
+  },
+  "homepage": "https://github.com/Tasluf665/firebaseAuthHelper#readme",
+  "dependencies": {
+    "firebase": "^9.8.1"
+  }
+}
