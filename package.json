@@ -1,6 +1,6 @@
 {
   "name": "@tasluf/firebase_auth_helper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "It will help to login in firebase with google, Facebook, Email, Phone",
   "main": "index.js",
   "type": "module",
@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/Tasluf665/firebaseAuthHelper#readme",
   "dependencies": {
-    "firebase": "^9.8.1"
+    "firebase": "^9.6.11"
   }
 }
